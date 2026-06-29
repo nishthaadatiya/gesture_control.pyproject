@@ -1,0 +1,7 @@
+{
+    "min_dist": 20,
+    "max_dist": 200,
+    "detection_conf": 0.7,
+    "tracking_conf": 0.7,
+    "smoothing_window": 5
+}
